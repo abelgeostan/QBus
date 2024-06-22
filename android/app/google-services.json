@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514062003141",
+    "project_id": "hacksus-63c4d",
+    "storage_bucket": "hacksus-63c4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514062003141:android:fb674918d6f415b787f9ac",
+        "android_client_info": {
+          "package_name": "com.example.sus_sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCnbj2EuKTTMULPmqk_dJaw2iCR5jqkeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
