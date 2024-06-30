@@ -1,9 +1,9 @@
 ## QBUS
-the app contains 2 user sides -one for bus drivers and passengers
-The driver can update his live location
-user can see the live location of the bus through the bus driver's phone's live location
-additional ticketing system
-NOTE: the app is in the very early stage, and was made as a prototype for a hackathon 
+- the app contains 2 user sides -one for bus drivers and passengers.
+- The driver can update his live location.
+- Users can see the live location of the bus through the bus driver's phone's live location
+- additional ticketing system.
+-  NOTE: the app is in the very early stage, and was made as a prototype for a hackathon .
 ## Driver-side
 ![image](https://github.com/abelgeostan/QBus/assets/170155087/d81ea96d-dd64-47b3-ac67-a1f457d50196)
 ![image](https://github.com/abelgeostan/QBus/assets/170155087/b2df27dd-eab6-4460-ad73-6c7173c4ba50)
